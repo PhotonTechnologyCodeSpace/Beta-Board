@@ -1,5 +1,8 @@
 /*
   Servo Motor
+  
+  Birçok alanda kullanılan 1 birim devir/dakikalık hız bölgelerinin altında bile kararlı çalışabilen, 
+  hız ve moment kontrolü yapan servo motorların arduino ile çalışma uygulaması yapıldı.
 
   Düzenleme 27.12.2020 - Uğur Koyun
    
