@@ -1,7 +1,7 @@
 /*
   Trimpot
   
-  Analog giriş pinine bağladığımız trimpot ile direnç değeri okuma uygulaması.
+  Analog giriş pinine bağladığımız trimpot ile direnç değeri okuma uygulaması yapıldı.
   
   Düzenleme 27.12.2020 - Uğur Koyun
   Düzenleme 09.01.2021 - Yusuf Enes TATAR
